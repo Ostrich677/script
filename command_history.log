@@ -1,0 +1,191 @@
+2024-09-17 00:09:52.336 +0300 nelidovanastya: Сгенерирован новый UUID: kFAK739JoT0M8AG9dHaqukZnzHHWUrGrJX1aWtAXMQHUWF5LVTWVsLdQyGbrQW01W5WVeINo0ZYjUWvAJJblAaiyBQFErF71nAYRyV4y4s59ttsf6kodaaUZ46qKkbRFWhdCMw1o/D4VrcJhJY7GJer5R4fonNWsnSnKnc4wPmCLrv1+RblZrFuMz6Q60a6BYkKG2fk+OD172Iw5EmQ5g0A1l9Phk/wxxW5JvjcFJOYN8DlQzV7dVtfAHuskewMYWZP266tVbgJZc5xot7WnjnsydjX5wJcOKNIbM8ciu66bEmLcER2eTx0wltsTk09x6LTAE1ZbmrIsFRXyiR4dEg==
+2024-09-17 00:09:52.339 +0300 : Скрипт ЗАПУЩЕН. Ожидание новых команд...
+2024-09-17 00:10:47.580 +0300 nelidovanastya : ls
+2024-09-17 00:14:01.050 +0300 nelidovanastya : ip a
+2024-09-17 00:17:22.506 +0300 nelidovanastya : nano compiled_script.sh.x
+2024-09-17 00:18:03.769 +0300 nelidovanastya : source /etc/environment
+2024-09-17 00:18:27.568 +0300 nelidovanastya : find -name "*.log"
+2024-09-17 00:18:42.035 +0300 nelidovanastya : find -name "*.txt"
+2024-09-17 00:20:49.071 +0300 nelidovanastya : find -name "var/log/command_history.log"
+2024-09-17 00:21:09.724 +0300 nelidovanastya : find -name "history.log"
+2024-09-17 00:22:26.135 +0300 nelidovanastya : find -name "history.log
+2024-09-17 00:22:26.137 +0300 nelidovanastya : 
+2024-09-17 00:22:26.141 +0300 nelidovanastya : ls
+2024-09-17 00:22:26.144 +0300 nelidovanastya : 
+2024-09-17 00:27:45.650 +0300 nelidovanastya: UUID использован из /var/log/last_uuid.txt: kFAK739JoT0M8AG9dHaqukZnzHHWUrGrJX1aWtAXMQHUWF5LVTWVsLdQyGbrQW01W5WVeINo0ZYjUWvAJJblAaiyBQFErF71nAYRyV4y4s59ttsf6kodaaUZ46qKkbRFWhdCMw1o/D4VrcJhJY7GJer5R4fonNWsnSnKnc4wPmCLrv1+RblZrFuMz6Q60a6BYkKG2fk+OD172Iw5EmQ5g0A1l9Phk/wxxW5JvjcFJOYN8DlQzV7dVtfAHuskewMYWZP266tVbgJZc5xot7WnjnsydjX5wJcOKNIbM8ciu66bEmLcER2eTx0wltsTk09x6LTAE1ZbmrIsFRXyiR4dEg==
+2024-09-17 00:27:45.652 +0300 : Скрипт ЗАПУЩЕН. Ожидание новых команд...
+2024-09-17 00:39:15.279 +0300 nelidovanastya: UUID использован из /var/log/last_uuid.txt: kFAK739JoT0M8AG9dHaqukZnzHHWUrGrJX1aWtAXMQHUWF5LVTWVsLdQyGbrQW01W5WVeINo0ZYjUWvAJJblAaiyBQFErF71nAYRyV4y4s59ttsf6kodaaUZ46qKkbRFWhdCMw1o/D4VrcJhJY7GJer5R4fonNWsnSnKnc4wPmCLrv1+RblZrFuMz6Q60a6BYkKG2fk+OD172Iw5EmQ5g0A1l9Phk/wxxW5JvjcFJOYN8DlQzV7dVtfAHuskewMYWZP266tVbgJZc5xot7WnjnsydjX5wJcOKNIbM8ciu66bEmLcER2eTx0wltsTk09x6LTAE1ZbmrIsFRXyiR4dEg==
+2024-09-17 00:39:15.282 +0300 : Скрипт ЗАПУЩЕН. Ожидание новых команд...
+2024-09-17 00:44:42.073 +0300 nelidovanastya: UUID использован из /var/log/last_uuid.txt: kFAK739JoT0M8AG9dHaqukZnzHHWUrGrJX1aWtAXMQHUWF5LVTWVsLdQyGbrQW01W5WVeINo0ZYjUWvAJJblAaiyBQFErF71nAYRyV4y4s59ttsf6kodaaUZ46qKkbRFWhdCMw1o/D4VrcJhJY7GJer5R4fonNWsnSnKnc4wPmCLrv1+RblZrFuMz6Q60a6BYkKG2fk+OD172Iw5EmQ5g0A1l9Phk/wxxW5JvjcFJOYN8DlQzV7dVtfAHuskewMYWZP266tVbgJZc5xot7WnjnsydjX5wJcOKNIbM8ciu66bEmLcER2eTx0wltsTk09x6LTAE1ZbmrIsFRXyiR4dEg==
+2024-09-17 00:44:42.075 +0300 : Скрипт ЗАПУЩЕН. Ожидание новых команд...
+2024-09-17 00:46:27.641 +0300 nelidovanastya: UUID использован из /var/log/last_uuid.txt: kFAK739JoT0M8AG9dHaqukZnzHHWUrGrJX1aWtAXMQHUWF5LVTWVsLdQyGbrQW01W5WVeINo0ZYjUWvAJJblAaiyBQFErF71nAYRyV4y4s59ttsf6kodaaUZ46qKkbRFWhdCMw1o/D4VrcJhJY7GJer5R4fonNWsnSnKnc4wPmCLrv1+RblZrFuMz6Q60a6BYkKG2fk+OD172Iw5EmQ5g0A1l9Phk/wxxW5JvjcFJOYN8DlQzV7dVtfAHuskewMYWZP266tVbgJZc5xot7WnjnsydjX5wJcOKNIbM8ciu66bEmLcER2eTx0wltsTk09x6LTAE1ZbmrIsFRXyiR4dEg==
+2024-09-17 00:46:27.644 +0300 : Скрипт ЗАПУЩЕН. Ожидание новых команд...
+2024-09-17 00:51:39.926 +0300 nelidovanastya : find -name "history.log"
+2024-09-17 00:51:39.930 +0300 nelidovanastya : sudo chmod +x compiled_script.sh.x
+2024-09-17 00:51:39.933 +0300 nelidovanastya : nohup sudo sc./compiled_script.sh.x &
+2024-09-17 00:51:39.935 +0300 nelidovanastya : ls
+2024-09-17 00:51:39.938 +0300 nelidovanastya : nohup sudo ./compiled_scaript.sh.x
+2024-09-17 00:51:39.940 +0300 nelidovanastya : ls
+2024-09-17 00:51:39.943 +0300 nelidovanastya : nohup sudo ./compiled_script.sh.x
+2024-09-17 00:51:39.945 +0300 nelidovanastya : ls
+2024-09-17 00:51:39.947 +0300 nelidovanastya : ./compiled_script.sh.x > /sc/command.txt
+2024-09-17 00:51:39.949 +0300 nelidovanastya : ./compiled_script.sh.x >/home/sc/command.txt
+2024-09-17 00:51:39.952 +0300 nelidovanastya : ./compiled_script.sh.x >/home/nelidovanastya/sc/command.txt
+2024-09-17 00:51:39.954 +0300 nelidovanastya : ls
+2024-09-17 00:51:39.956 +0300 nelidovanastya : ip a
+2024-09-17 00:51:39.959 +0300 nelidovanastya : sudo ./compiled_script.sh.x >/home/nelidovanastya/sc/command.txt
+2024-09-17 00:51:39.961 +0300 nelidovanastya : ls
+2024-09-17 00:51:39.963 +0300 nelidovanastya : sudo /compiled_script.sh.x > /home/nelidovanastya/sc/command.txt
+2024-09-17 00:51:39.966 +0300 nelidovanastya : sudo /home/nelidovanastya/compiled_script.sh.x > /home/nelidovanastya/sc/command.txt
+2024-09-17 00:51:39.968 +0300 nelidovanastya : ls
+2024-09-17 00:51:39.970 +0300 nelidovanastya : ip a
+2024-09-17 00:51:39.973 +0300 nelidovanastya : sudo /home/nelidovanastya/compiled_script.sh.x > /home/nelidovanastya/sc/command.txt 2>&1
+2024-09-17 00:51:39.975 +0300 nelidovanastya : ls
+2024-09-17 00:51:39.977 +0300 nelidovanastya : ip a
+2024-09-17 00:51:39.980 +0300 nelidovanastya : nano /home/nelidovanastya/compiled_script.sh.x
+2024-09-17 00:51:39.982 +0300 nelidovanastya : source /etc/environment
+2024-09-17 00:52:21.327 +0300 nelidovanastya : sudo /home/nelidovanastya/scripts/compiled_script.sh.x > /home/nelidovanastya/scripts/output.log 2>&1
+2024-09-17 00:55:35.207 +0300 nelidovanastya: UUID использован из /var/log/last_uuid.txt: kFAK739JoT0M8AG9dHaqukZnzHHWUrGrJX1aWtAXMQHUWF5LVTWVsLdQyGbrQW01W5WVeINo0ZYjUWvAJJblAaiyBQFErF71nAYRyV4y4s59ttsf6kodaaUZ46qKkbRFWhdCMw1o/D4VrcJhJY7GJer5R4fonNWsnSnKnc4wPmCLrv1+RblZrFuMz6Q60a6BYkKG2fk+OD172Iw5EmQ5g0A1l9Phk/wxxW5JvjcFJOYN8DlQzV7dVtfAHuskewMYWZP266tVbgJZc5xot7WnjnsydjX5wJcOKNIbM8ciu66bEmLcER2eTx0wltsTk09x6LTAE1ZbmrIsFRXyiR4dEg==
+2024-09-17 00:55:35.209 +0300 : Скрипт ЗАПУЩЕН. Ожидание новых команд...
+2024-09-17 00:55:36.284 +0300 nelidovanastya : sudo /home/nelidovanastya/compiled_script.sh.x > /home/nelidovanastya/output.log 2>&1
+2024-09-17 00:55:54.910 +0300 nelidovanastya : ls
+2024-09-17 00:57:33.122 +0300 nelidovanastya : f
+2024-09-17 01:01:47.305 +0300 nelidovanastya: UUID использован из /var/log/last_uuid.txt: kFAK739JoT0M8AG9dHaqukZnzHHWUrGrJX1aWtAXMQHUWF5LVTWVsLdQyGbrQW01W5WVeINo0ZYjUWvAJJblAaiyBQFErF71nAYRyV4y4s59ttsf6kodaaUZ46qKkbRFWhdCMw1o/D4VrcJhJY7GJer5R4fonNWsnSnKnc4wPmCLrv1+RblZrFuMz6Q60a6BYkKG2fk+OD172Iw5EmQ5g0A1l9Phk/wxxW5JvjcFJOYN8DlQzV7dVtfAHuskewMYWZP266tVbgJZc5xot7WnjnsydjX5wJcOKNIbM8ciu66bEmLcER2eTx0wltsTk09x6LTAE1ZbmrIsFRXyiR4dEg==
+2024-09-17 01:01:47.307 +0300 : Скрипт ЗАПУЩЕН. Ожидание новых команд...
+2024-09-17 01:02:43.445 +0300 nelidovanastya: UUID использован из /var/log/last_uuid.txt: kFAK739JoT0M8AG9dHaqukZnzHHWUrGrJX1aWtAXMQHUWF5LVTWVsLdQyGbrQW01W5WVeINo0ZYjUWvAJJblAaiyBQFErF71nAYRyV4y4s59ttsf6kodaaUZ46qKkbRFWhdCMw1o/D4VrcJhJY7GJer5R4fonNWsnSnKnc4wPmCLrv1+RblZrFuMz6Q60a6BYkKG2fk+OD172Iw5EmQ5g0A1l9Phk/wxxW5JvjcFJOYN8DlQzV7dVtfAHuskewMYWZP266tVbgJZc5xot7WnjnsydjX5wJcOKNIbM8ciu66bEmLcER2eTx0wltsTk09x6LTAE1ZbmrIsFRXyiR4dEg==
+2024-09-17 01:02:43.448 +0300 : Скрипт ЗАПУЩЕН. Ожидание новых команд...
+2024-09-18 17:55:35.815 +0300 nelidovanastya: UUID использован из /var/log/last_uuid.txt: kFAK739JoT0M8AG9dHaqukZnzHHWUrGrJX1aWtAXMQHUWF5LVTWVsLdQyGbrQW01W5WVeINo0ZYjUWvAJJblAaiyBQFErF71nAYRyV4y4s59ttsf6kodaaUZ46qKkbRFWhdCMw1o/D4VrcJhJY7GJer5R4fonNWsnSnKnc4wPmCLrv1+RblZrFuMz6Q60a6BYkKG2fk+OD172Iw5EmQ5g0A1l9Phk/wxxW5JvjcFJOYN8DlQzV7dVtfAHuskewMYWZP266tVbgJZc5xot7WnjnsydjX5wJcOKNIbM8ciu66bEmLcER2eTx0wltsTk09x6LTAE1ZbmrIsFRXyiR4dEg==
+2024-09-18 17:55:35.825 +0300 : Скрипт ЗАПУЩЕН. Ожидание новых команд...
+2024-09-18 17:55:37.381 +0300 nelidovanastya : nohup sudo ./compiled_script.sh.x
+2024-09-18 17:55:48.991 +0300 nelidovanastya: UUID использован из /var/log/last_uuid.txt: kFAK739JoT0M8AG9dHaqukZnzHHWUrGrJX1aWtAXMQHUWF5LVTWVsLdQyGbrQW01W5WVeINo0ZYjUWvAJJblAaiyBQFErF71nAYRyV4y4s59ttsf6kodaaUZ46qKkbRFWhdCMw1o/D4VrcJhJY7GJer5R4fonNWsnSnKnc4wPmCLrv1+RblZrFuMz6Q60a6BYkKG2fk+OD172Iw5EmQ5g0A1l9Phk/wxxW5JvjcFJOYN8DlQzV7dVtfAHuskewMYWZP266tVbgJZc5xot7WnjnsydjX5wJcOKNIbM8ciu66bEmLcER2eTx0wltsTk09x6LTAE1ZbmrIsFRXyiR4dEg==
+2024-09-18 17:55:48.993 +0300 : Скрипт ЗАПУЩЕН. Ожидание новых команд...
+2024-09-18 17:56:32.806 +0300 nelidovanastya : cat /var/log/command_history.log
+2024-09-18 18:00:36.303 +0300 nelidovanastya : nano ~/.bashrc
+2024-09-18 18:01:26.673 +0300 nelidovanastya : grep -r "/var/log/command_history.log" /etc/home
+2024-09-18 18:01:41.281 +0300 nelidovanastya : grep -r "/var/log/command_history.log" /etc/environment
+2024-09-18 18:02:51.390 +0300 nelidovanastya : sudo find / -name command_history
+2024-09-18 18:03:13.386 +0300 nelidovanastya : sudo find / -name command_history.log
+2024-09-18 18:03:35.324 +0300 nelidovanastya : cat /var/log/command_history.log
+2024-09-18 18:04:12.903 +0300 nelidovanastya : ls
+2024-09-18 18:04:17.197 +0300 nelidovanastya : cat /var/log/command_history.log
+2024-09-18 19:09:29.363 +0300 nelidovanastya : cp command_history.log output.log
+2024-09-18 19:10:55.326 +0300 nelidovanastya : cp var/log/command_history.log output.log
+2024-09-18 19:11:23.853 +0300 nelidovanastya : cat /var/log/command_history.log
+2024-09-18 19:17:44.666 +0300 nelidovanastya : whoami
+2024-09-18 19:18:26.896 +0300 nelidovanastya : cd /
+2024-09-18 19:19:00.395 +0300 nelidovanastya : ls
+2024-09-18 19:19:42.619 +0300 nelidovanastya : type ls
+2024-09-18 19:20:05.782 +0300 nelidovanastya : type cd
+2024-09-18 19:20:33.058 +0300 nelidovanastya : ls /home
+2024-09-18 19:21:27.568 +0300 nelidovanastya : ls home
+2024-09-18 19:21:51.641 +0300 nelidovanastya : cd tmp
+2024-09-18 19:23:00.768 +0300 nelidovanastya : cat /var/log/command_history.log
+2024-09-18 19:23:23.823 +0300 nelidovanastya : mkdir pt
+2024-09-18 19:23:32.388 +0300 nelidovanastya : cd pt
+2024-09-18 19:24:44.104 +0300 nelidovanastya : touch 1.txt 2.txt 3.txt
+2024-09-18 19:29:04.338 +0300 nelidovanastya : nano 1.txt
+2024-09-18 19:29:46.249 +0300 nelidovanastya : vim 2.txt
+2024-09-18 19:31:05.660 +0300 nelidovanastya : sudo apt install vim
+2024-09-18 19:32:39.944 +0300 nelidovanastya : vim 2.txt
+2024-09-18 19:41:02.608 +0300 nelidovanastya : cp -r pt pt_backup
+2024-09-18 19:41:23.672 +0300 nelidovanastya : cd/tmp
+2024-09-18 19:41:31.164 +0300 nelidovanastya : cd /tmp
+2024-09-18 19:41:36.385 +0300 nelidovanastya : cp -r pt pt_backup
+2024-09-18 19:43:29.569 +0300 nelidovanastya : tar -czvf pt_backup.tar.gz pt_backup
+2024-09-18 19:44:22.002 +0300 nelidovanastya : tar -xzvf pt_backup.tar.gz
+2024-09-18 19:49:11.947 +0300 nelidovanastya : zip -r pt_backup.zip pt_backup
+2024-09-18 19:50:10.496 +0300 nelidovanastya : unzip pt_backup.zip
+2024-09-18 19:52:03.963 +0300 nelidovanastya : ls -l ~ /usr
+2024-09-18 19:53:29.384 +0300 nelidovanastya : ls -lr
+2024-09-18 19:54:27.981 +0300 nelidovanastya : cd /
+2024-09-18 19:54:33.217 +0300 nelidovanastya : ls -lr
+2024-09-18 19:57:02.302 +0300 nelidovanastya : ls -ld pt_backup
+2024-09-18 19:57:16.964 +0300 nelidovanastya : cd /tmp
+2024-09-18 19:57:19.041 +0300 nelidovanastya : ls -ld pt_backup
+2024-09-18 19:58:57.479 +0300 nelidovanastya : mv pt/3.txt /tmp/file3.txt
+2024-09-18 20:00:14.367 +0300 nelidovanastya : mkdir folder1
+2024-09-18 20:00:46.899 +0300 nelidovanastya : cd /folder1
+2024-09-18 20:00:59.619 +0300 nelidovanastya : cd folder1
+2024-09-18 20:01:16.414 +0300 nelidovanastya : touch doc.txt
+2024-09-18 20:04:29.148 +0300 nelidovanastya : cd tmp
+2024-09-18 20:04:35.511 +0300 nelidovanastya : cd /tmp
+2024-09-18 20:05:41.372 +0300 nelidovanastya : mv -i /tmp/file3 /folder1
+2024-09-18 20:05:52.904 +0300 nelidovanastya : mv -i /file3 /folder1
+2024-09-18 20:05:58.137 +0300 nelidovanastya : mv -i file3 /folder1
+2024-09-18 20:06:13.802 +0300 nelidovanastya : mv -i file3.txt /folder1
+2024-09-18 20:06:35.831 +0300 nelidovanastya : mv sudo -i file3.txt /folder1
+2024-09-18 20:06:46.275 +0300 nelidovanastya : mv sudo -i file3.txt folder1
+2024-09-18 20:06:53.548 +0300 nelidovanastya : mv -i file3.txt folder1
+2024-09-18 20:08:37.263 +0300 nelidovanastya : $mv -i file3.txt folder1
+2024-09-18 20:08:44.497 +0300 nelidovanastya : $mv file3.txt folder1
+2024-09-18 20:13:08.106 +0300 nelidovanastya : $ mv -1 file3.txt filder1
+2024-09-18 20:13:17.558 +0300 nelidovanastya : $ mv -i file3.txt filder1
+2024-09-18 20:13:27.041 +0300 nelidovanastya : $mv -i file3.txt filder1
+2024-09-18 20:14:02.698 +0300 nelidovanastya : mv -i file3.txt filder1
+2024-09-18 20:15:33.493 +0300 nelidovanastya : touch file3.txt
+2024-09-18 20:18:18.690 +0300 nelidovanastya : cd/
+2024-09-18 20:18:22.885 +0300 nelidovanastya : cd /
+2024-09-18 20:18:55.298 +0300 nelidovanastya : mv -i /tmp/file3.txt /tmp/folder1/doc.txt
+2024-09-18 20:22:49.542 +0300 nelidovanastya : cd tmp
+2024-09-18 20:22:53.723 +0300 nelidovanastya : touch file3.txt
+2024-09-18 20:23:10.277 +0300 nelidovanastya : mv -i /tmp/file3.txt /tmp/folder1/doc.txt
+2024-09-18 20:25:04.008 +0300 nelidovanastya : which ls
+2024-09-18 20:25:12.378 +0300 nelidovanastya : which cd
+2024-09-18 20:25:27.032 +0300 nelidovanastya : type cd
+2024-09-18 20:34:39.560 +0300 nelidovanastya : ls --help
+2024-09-18 20:34:47.926 +0300 nelidovanastya : nano --help
+2024-09-18 20:34:56.302 +0300 nelidovanastya : rm --help
+2024-09-18 20:36:07.470 +0300 nelidovanastya : cd /
+2024-09-18 20:37:28.384 +0300 nelidovanastya : ln -s /tmp/folder1 /tmp/folder1/lonk_to_file
+2024-09-18 20:38:24.244 +0300 nelidovanastya : cat /tmp/folder1/link_to_file
+2024-09-18 20:38:36.795 +0300 nelidovanastya : cat /tmp/folder1/lonk_to_file
+2024-09-18 20:39:50.192 +0300 nelidovanastya : ln -s /tmp/pt /tmp/pt/link_to_directory
+2024-09-18 20:40:07.053 +0300 nelidovanastya : cat tmp/pt/link_to_directory
+2024-09-18 20:40:59.431 +0300 nelidovanastya : cat /var/log/command_history.log
+2024-09-18 20:43:18.200 +0300 nelidovanastya : ln -s /path/to/nonexistent/file path/broken_link
+2024-09-18 20:43:52.129 +0300 nelidovanastya : ls -l /path/broken_link
+2024-09-18 20:45:19.343 +0300 nelidovanastya : ln -s  path/broken_link
+2024-09-18 20:45:36.125 +0300 nelidovanastya : ln sudo -s  path/broken_link
+2024-09-18 20:45:54.899 +0300 nelidovanastya : sudo ln -s  path/broken_link
+2024-09-18 20:46:04.370 +0300 nelidovanastya : cat /var/log/command_history.log
+2024-09-18 20:46:42.079 +0300 nelidovanastya : cat path/broken_link
+2024-09-18 20:47:49.319 +0300 nelidovanastya : ln sudo -s /path  /path/broken_link
+2024-09-18 20:52:08.392 +0300 nelidovanastya : ln /tmp/pt_backup /tmp/pt_backup/hard_lin_to_directory
+2024-09-18 20:52:58.526 +0300 nelidovanastya : ln /tmp/pt_backup/2.txt /tmp/pt_backup/hard_lin_to_file
+2024-09-18 20:53:46.916 +0300 nelidovanastya : cat /tmp/pt_backup/hard_lin_to_file
+2024-09-18 20:57:16.373 +0300 nelidovanastya : nano ~/.bashrc
+2024-09-18 20:57:31.065 +0300 nelidovanastya : sourse ~/.bashrc
+2024-09-18 20:57:54.047 +0300 nelidovanastya : mycommand
+2024-09-18 20:58:51.618 +0300 nelidovanastya : nano ~/.bashrc
+2024-09-18 20:59:31.359 +0300 nelidovanastya : sourse ~/.bashrc
+2024-09-18 20:59:34.498 +0300 nelidovanastya : mycommand
+2024-09-18 21:00:23.760 +0300 nelidovanastya : nano ~/.bashrc
+2024-09-18 21:00:29.079 +0300 nelidovanastya : cat /var/log/command_history.log
+2024-09-18 21:02:04.535 +0300 nelidovanastya : cd tmp
+2024-09-18 21:04:16.664 +0300 nelidovanastya : cat > file_text
+2024-09-18 21:04:36.493 +0300 nelidovanastya : cat file_text.txt
+2024-09-18 21:04:50.135 +0300 nelidovanastya : cat file_text
+2024-09-18 21:05:53.450 +0300 nelidovanastya : cat > file_text
+2024-09-18 21:05:59.684 +0300 nelidovanastya : cat file_text
+2024-09-18 21:06:32.089 +0300 nelidovanastya : cat > file_text
+2024-09-18 21:09:59.808 +0300 nelidovanastya : cd /
+2024-09-18 21:15:42.343 +0300 nelidovanastya : nano my_script.sh
+2024-09-18 21:16:02.114 +0300 nelidovanastya : sudo nano my_script.sh
+2024-09-18 21:18:58.632 +0300 nelidovanastya : cd tmp
+2024-09-18 21:19:31.226 +0300 nelidovanastya : rm -i file_text
+2024-09-18 21:20:31.812 +0300 nelidovanastya : mkdir my_directory
+2024-09-18 21:20:50.546 +0300 nelidovanastya : rm -i my_directory
+2024-09-18 21:21:02.032 +0300 nelidovanastya : sudo rm -i my_directory
+2024-09-18 21:21:19.780 +0300 nelidovanastya : rm -r my_directory
+2024-09-18 21:21:42.047 +0300 nelidovanastya : rm -r pt
+2024-09-18 21:22:26.886 +0300 nelidovanastya : cd /
+2024-09-18 21:22:52.092 +0300 nelidovanastya : sudo useradd -m User1
+2024-09-18 21:24:48.525 +0300 nelidovanastya : sudo passwd User1
+2024-09-18 21:25:26.063 +0300 nelidovanastya : find 1.txt
+2024-09-18 21:28:27.543 +0300 nelidovanastya : find /tmp/pt_backup -type f -name "*.txt"
+2024-09-18 21:29:55.709 +0300 nelidovanastya : sudo find / -name 1.txt
+2024-09-18 21:30:51.257 +0300 nelidovanastya : grep -r "1.txt" 
+2024-09-18 21:31:49.809 +0300 nelidovanastya : grep -r "1.txt" /tmp
+2024-09-18 21:32:12.830 +0300 nelidovanastya : sudo grep -r "1.txt" /tmp
+2024-09-18 21:34:50.837 +0300 nelidovanastya : ping -c 1 example.com && echo "Ping successful"
+2024-09-18 21:35:58.999 +0300 nelidovanastya : ping -c 1 no.domain || echo "Error!"
