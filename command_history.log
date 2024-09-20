@@ -232,3 +232,9 @@
 2024-09-20 13:50:17.418 +0300 nelidovanastya : sudo systemctl restart networking
 2024-09-20 13:50:35.978 +0300 nelidovanastya : ip route show
 2024-09-20 13:50:56.611 +0300 nelidovanastya : ping 8.8.8.8
+2024-09-20 13:58:30.679 +0300 nelidovanastya: UUID использован из /var/log/last_uuid.txt: kFAK739JoT0M8AG9dHaqukZnzHHWUrGrJX1aWtAXMQHUWF5LVTWVsLdQyGbrQW01W5WVeINo0ZYjUWvAJJblAaiyBQFErF71nAYRyV4y4s59ttsf6kodaaUZ46qKkbRFWhdCMw1o/D4VrcJhJY7GJer5R4fonNWsnSnKnc4wPmCLrv1+RblZrFuMz6Q60a6BYkKG2fk+OD172Iw5EmQ5g0A1l9Phk/wxxW5JvjcFJOYN8DlQzV7dVtfAHuskewMYWZP266tVbgJZc5xot7WnjnsydjX5wJcOKNIbM8ciu66bEmLcER2eTx0wltsTk09x6LTAE1ZbmrIsFRXyiR4dEg==
+2024-09-20 13:58:30.684 +0300 : Скрипт ЗАПУЩЕН. Ожидание новых команд...
+2024-09-20 13:59:23.219 +0300 nelidovanastya : ifconfig enp0s3 promisc
+2024-09-20 13:59:29.526 +0300 nelidovanastya : sudoifconfig enp0s3 promisc
+2024-09-20 13:59:34.777 +0300 nelidovanastya : sudo ifconfig enp0s3 promisc
+2024-09-20 13:59:40.023 +0300 nelidovanastya : sudo ifconfig enp0s3 -promisc
