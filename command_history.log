@@ -203,3 +203,32 @@
 2024-09-20 13:18:50.500 +0300 nelidovanastya : ping -a 35.190.14.201
 2024-09-20 13:19:26.713 +0300 nelidovanastya : ping -c 5 -q 35.190.14.201
 2024-09-20 13:19:47.445 +0300 nelidovanastya : cat /var/log/command_history.log
+2024-09-20 13:22:58.378 +0300 nelidovanastya : ipconfig a
+2024-09-20 13:23:53.278 +0300 nelidovanastya : sudo apt install net-tools -y
+2024-09-20 13:24:12.895 +0300 nelidovanastya : ipconfig -a
+2024-09-20 13:24:32.467 +0300 nelidovanastya : ifconfig -a
+2024-09-20 13:26:18.926 +0300 nelidovanastya : ifconfig lo
+2024-09-20 13:27:13.610 +0300 nelidovanastya : ifconfig eth0
+2024-09-20 13:30:00.039 +0300 nelidovanastya : sudo ifup eth0
+2024-09-20 13:35:55.553 +0300 nelidovanastya : sudo ifconfig enp0s3 192.168.0.102 netmask 255.255.255.0 up
+2024-09-20 13:36:54.310 +0300 nelidovanastya : ip addr show
+2024-09-20 13:37:58.246 +0300 nelidovanastya : ifconfig enp0s3 mtu 500
+2024-09-20 13:38:06.506 +0300 nelidovanastya : sudo ifconfig enp0s3 mtu 500
+2024-09-20 13:40:31.924 +0300 nelidovanastya : sudo ifconfig enp0s3 down
+2024-09-20 13:41:38.907 +0300 nelidovanastya : sudo ifconfig enp0s3 hw ether 00:11:2c:3d:44:5a
+2024-09-20 13:41:47.148 +0300 nelidovanastya : sudo ifconfig enp0s3 up
+2024-09-20 13:42:15.021 +0300 nelidovanastya : ifconfig enp0s3
+2024-09-20 13:42:27.405 +0300 nelidovanastya : cat /var/log/command_history.log
+2024-09-20 13:43:09.398 +0300 nelidovanastya : ip a
+2024-09-20 13:43:25.984 +0300 nelidovanastya : ping 8.8.8.8
+2024-09-20 13:43:38.358 +0300 nelidovanastya : ifconfig enp0s3 down
+2024-09-20 13:43:45.600 +0300 nelidovanastya : sudo ifconfig enp0s3 down
+2024-09-20 13:44:42.579 +0300 nelidovanastya : ifconfig enp0s3 
+2024-09-20 13:45:58.800 +0300 nelidovanastya : history
+2024-09-20 13:48:42.281 +0300 nelidovanastya : sudo dgclient enp0s3
+2024-09-20 13:48:52.599 +0300 nelidovanastya : sudo dhclient enp0s3
+2024-09-20 13:49:36.998 +0300 nelidovanastya : sudo ip addr flush dev enp0s3
+2024-09-20 13:49:46.306 +0300 nelidovanastya : sudo ifconfig enp0s3 
+2024-09-20 13:50:17.418 +0300 nelidovanastya : sudo systemctl restart networking
+2024-09-20 13:50:35.978 +0300 nelidovanastya : ip route show
+2024-09-20 13:50:56.611 +0300 nelidovanastya : ping 8.8.8.8
